@@ -9,7 +9,6 @@ from openpyxl import load_workbook
 from openpyxl.drawing.image import Image
 from PIL import Image as PilImage
 import os
-
 # SAVE DATA-----------------------------------------------------------------------
 def SAVE_DATA(File,
               SheetName,
